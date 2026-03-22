@@ -8,7 +8,7 @@ Estudiante de desarrollo apasionado por crear soluciones web eficientes y experi
 - 🔭 Actualmente trabajando en proyectos de **React** y **Java**.
 - 📚 Profundizando en **Estructuras de Datos** y **Bases de Datos Relacionales**.
 - 🎨 Disfruto transformando ideas en prototipos funcionales usando **Figma**.
-- 🎮 En mi tiempo libre me gusta competir en juegos y jugar Minecraft.
+- 🎮 En mi tiempo libre me gusta competir en juegos.
 
 ### 🛠️ Mi Stack Tecnológico
 
