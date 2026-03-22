@@ -20,7 +20,3 @@ Estudiante de desarrollo apasionado por crear soluciones web eficientes y experi
 | **Diseño** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 ---
-
-### 📊 Estadísticas de GitHub
-![Estadísticas de Arturo](https://github-readme-stats.vercel.app/api?username=pan-sitop&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pan-sitop&layout=compact&theme=radical)
